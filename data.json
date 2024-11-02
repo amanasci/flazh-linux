@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the Cauchy-Riemann equation in Cartesian coordinates?",
+        "options": [
+            "∂u/∂x = ∂v/∂y and ∂u/∂y = -∂v/∂x",
+            "∂u/∂x = ∂v/∂x and ∂u/∂y = ∂v/∂y",
+            "∂u/∂x + ∂v/∂x = 0",
+            "∂u/∂y = ∂v/∂y and ∂u/∂x = ∂v/∂x"
+        ],
+        "correct_answer": "∂u/∂x = ∂v/∂y and ∂u/∂y = -∂v/∂x"
+    },
+    {
+        "question": "Which of these is a property of an analytic function?",
+        "options": [
+            "It is differentiable only at isolated points.",
+            "It is differentiable at every point in its domain.",
+            "Its derivative is zero everywhere.",
+            "It has a discontinuity in its domain."
+        ],
+        "correct_answer": "It is differentiable at every point in its domain."
+    },
+    {
+        "question": "What is the principal value of the argument of a complex number z = -1 - i?",
+        "options": [
+            "-3π/4",
+            "π/4",
+            "-π/4",
+            "-5π/4"
+        ],
+        "correct_answer": "-3π/4"
+    },
+    {
+        "question": "Which of the following series represents a Laurent series expansion?",
+        "options": [
+            "∑aₙzⁿ",
+            "∑aₙ/zⁿ",
+            "∑aₙzⁿ + ∑bₙ/zⁿ",
+            "∑aₙn!"
+        ],
+        "correct_answer": "∑aₙzⁿ + ∑bₙ/zⁿ"
+    },
+    {
+        "question": "What is the residue of f(z) = 1/(z-2) at z = 2?",
+        "options": [
+            "1",
+            "2",
+            "-1",
+            "0"
+        ],
+        "correct_answer": "1"
+    }
+]
